@@ -26,4 +26,4 @@ O objetivo foi criar uma aplicação visual, imersiva e funcional, aplicando con
 
 <h3>🌐 Demonstração</h3>
 <img src="https://github.com/helioborges-dev/Dragon-Ball-Z/blob/main/assets/image/illustration.png?raw=true">
-<a href="https://helioborges-dev.github.io/Dragon-Ball-Z/" target="_blank" rel="noopener noreferrer">Acesse o projeto online</a>
+<a href="https://helioborges-dev.github.io/Dragon-Ball-Z/">Acesse o projeto online</a>
