@@ -2,9 +2,9 @@
 
 ## 🚀 Sobre o Projeto
 
-Interface desenvolvida como prática de Front-End, inspirada em sites de jogos,
-utilizando o tema Dragon Ball Z. O objetivo foi criar uma aplicação visual,
-imersiva e funcional, aplicando conceitos estudados no **DevClub**.
+Interface desenvolvida como prática de Front-End, inspirada em sites de jogos
+e no universo de Dragon Ball Z: Kakarot. O objetivo foi criar uma experiência visual
+imersiva e interativa, aplicando conceitos estudados no **DevClub**.
 
 ---
 
@@ -18,16 +18,21 @@ imersiva e funcional, aplicando conceitos estudados no **DevClub**.
 
 ## ✨ Funcionalidades
 
-- Animações para maior dinamismo
-- Responsividade para diferentes dispositivos
-- Tela de login com efeitos visuais (bordas e sombra)
-- Efeitos sonoros e música de fundo
+- Links oficiais de compra nas plataformas Steam, Xbox, PlayStation e Nintendo
+- Música de fundo com controle de volume automático ao reproduzir o trailer
+- Formulário de cadastro com animação e som de teletransporte ao abrir e fechar
+- Sobreposição de fundo ao abrir o formulário para destacar o conteúdo
+- Seção de notícias com trailer e lista de novidades do jogo
+- Seção de personagens com card interativo, descrição e som de teletransporte ao trocar
+- Personagem principal com animação de flutuação
+- Slider de imagens do jogo com navegação por setas e indicadores
+- Layout responsivo para diferentes dispositivos
 
 ---
 
 ## 🔧 Melhorias Futuras
 
-- Ajustes de responsividade em alguns dispositivos e no modo horizontal
+- Ajustes de responsividade em dispositivos menores
 
 ---
 
