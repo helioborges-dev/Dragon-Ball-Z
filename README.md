@@ -1,10 +1,12 @@
 # ⚡ Dragon Ball Z Kakarot – Interface Inspirada
 
+![Status](https://img.shields.io/badge/status-concluído-brightgreen)
+
 ## 🚀 Sobre o Projeto
 
 Interface desenvolvida como prática de Front-End, inspirada em sites de jogos
-e no universo de Dragon Ball Z: Kakarot. O objetivo foi criar uma experiência visual
-imersiva e interativa, aplicando conceitos estudados no **DevClub**.
+e no universo de Dragon Ball Z: Kakarot. O objetivo foi criar uma experiência
+visual imersiva e interativa, aplicando conceitos estudados no **DevClub**.
 
 ---
 
@@ -36,6 +38,13 @@ imersiva e interativa, aplicando conceitos estudados no **DevClub**.
 
 ---
 
+## ▶️ Como executar
+
+1. Clone o repositório
+2. Abra o arquivo `index.html` no navegador
+
+---
+
 ## 🌐 Demonstração
 
 [🔗 Acesse o projeto online](https://helioborges-dev.github.io/Dragon-Ball-Z/)
@@ -45,3 +54,9 @@ imersiva e interativa, aplicando conceitos estudados no **DevClub**.
 ## 🖼️ Preview
 
 ![Preview do projeto](https://github.com/helioborges-dev/Dragon-Ball-Z/blob/main/assets/image/illustration.png?raw=true)
+
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT.
