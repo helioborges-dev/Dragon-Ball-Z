@@ -38,13 +38,6 @@ visual imersiva e interativa, aplicando conceitos estudados no **DevClub**.
 
 ---
 
-## ▶️ Como executar
-
-1. Clone o repositório
-2. Abra o arquivo `index.html` no navegador
-
----
-
 ## 🌐 Demonstração
 
 [🔗 Acesse o projeto online](https://helioborges-dev.github.io/Dragon-Ball-Z/)
@@ -56,7 +49,3 @@ visual imersiva e interativa, aplicando conceitos estudados no **DevClub**.
 ![Preview do projeto](https://github.com/helioborges-dev/Dragon-Ball-Z/blob/main/assets/image/illustration.png?raw=true)
 
 ---
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT.
